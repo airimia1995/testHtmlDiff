@@ -1,0 +1,31 @@
+{
+  "name": "testhtmldiff",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airimia1995/testHtmlDiff.git"
+  },
+  "keywords": [
+    "thd"
+  ],
+  "author": "Irimia Alexandru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airimia1995/testHtmlDiff/issues"
+  },
+  "homepage": "https://github.com/airimia1995/testHtmlDiff#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "htmldiff": "^0.0.4",
+    "htmldiff-js": "^1.0.5",
+    "libxmljs2": "^0.31.0",
+    "node-htmldiff": "^0.9.4",
+    "nodemon": "^2.0.20"
+  }
+}
